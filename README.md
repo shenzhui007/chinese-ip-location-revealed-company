@@ -7,5 +7,8 @@ to memorize these companies
 - 微博 Weibo
 - 抖音中国版 Tiktok Chinese
 - 微信公众号 Wechat Official Account Platform
+- 小红书 Xingin
+- 百家号
+- 今日头条
 
 有遗漏或者想法的可以发Issue或者Pull。
