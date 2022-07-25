@@ -10,5 +10,6 @@ to memorize these companies
 - 小红书 Xingin
 - 百家号
 - 今日头条
+- Bilibili
 
 有遗漏或者想法的可以发Issue或者Pull。
