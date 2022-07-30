@@ -14,6 +14,7 @@ to memorize these companies
 - Soul
 - 大众点评 Dianping
 - 知乎
+- 百度 Baidu
 
 
 有遗漏或者想法的可以发Issue或者Pull。
