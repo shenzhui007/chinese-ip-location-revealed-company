@@ -13,6 +13,7 @@ to memorize these companies
 - Bilibili
 - Soul
 - 大众点评 Dianping
+- 知乎
 
 
 有遗漏或者想法的可以发Issue或者Pull。
